@@ -1,7 +1,7 @@
 {
   "name": "EHSAAN'S AFK Bot",
   "bot-account": {
-    "username": "Ehsaan_GOONBOT",
+    "username": "Ehsaan_AFKBot",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 200,
       "messages": [
-        "Yahya & Hazim Does Sex At Midnight!",
-        "Ehsaan Is An Alpha Sigma Lion!",
-        "When I Grow Up I Want To Be A Tuff Sigma Like Mohammed Ehsaan Basheer!"
+        "Let's Not Give Up! 2 Weeks Phase NAH Let's Make It Atleast A 1 Year Phase",
+        "Make Sure To Follow The Rules! No Griefing, Please Keep It Civilized People!",
+        "When I Grow Up I Want To Be A Tuff Sigma Like Ehsaan!"
       ]
     },
     "chat-log": true,
